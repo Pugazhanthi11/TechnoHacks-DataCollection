@@ -1,4 +1,4 @@
-# TechnoHacks Data Science Internship - Task 1
+# Data Science
 
 This is my first task for the TechnoHacks Data Science Internship.
 
