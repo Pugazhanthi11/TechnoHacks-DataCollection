@@ -1,8 +1,8 @@
-# Data Science
+# DataCollection
 
-This is my first task for the TechnoHacks Data Science Internship.
+A Data Science project focused on exploring data, uncovering patterns, and generating meaningful insights
 
-For this task, I collected COVID-19 data from a public API using Python. The data was fetched using the Requests library, converted into a DataFrame using Pandas, and saved as a CSV file for future analysis.
+For this, I collected COVID-19 data from a public API using Python. The data was fetched using the Requests library, converted into a DataFrame using Pandas, and saved as a CSV file for future analysis.
 
 ## Tools Used
 
